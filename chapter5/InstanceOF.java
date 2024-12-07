@@ -25,7 +25,7 @@ public class InstanceOF {
 //			System.out.println(true);
 //		}
 		
-		Child1 c1 = null;
+		Child1 c1 = new Child1();
 		if(c1 instanceof Child1) {
 			System.out.println(true);
 		}else {

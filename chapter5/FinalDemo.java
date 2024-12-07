@@ -1,14 +1,14 @@
 package chapter5;
 
-class abc{
+final class abc{
 	final int a = 200;
-	public final void print() {
+	public void print() {
 		
 	}
 }
-class def extends abc{
-	
-}
+//class def extends abc{
+//	
+//}
 
 public class FinalDemo {
 

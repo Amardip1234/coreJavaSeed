@@ -3,11 +3,13 @@ import java.util.ArrayList;
 public class ArrayListDemo {
 
 	public static void main(String[] args) {
-		ArrayList a = new ArrayList();
+		ArrayList<Integer> a = new ArrayList();
 		a.add(10);
 		System.out.println(a);
-		a.add("Amar");
+		
+		a.add(20);
 		System.out.println(a);
+		
 		a.add(30);
 		System.out.println(a);
 		

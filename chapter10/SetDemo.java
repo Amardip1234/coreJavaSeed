@@ -18,11 +18,11 @@ public class SetDemo {
 		
 		
 		
-		if(hs.isEmpty()) {
-			System.out.println("it is empty");
-		}else {
-			System.out.println("something present");
-		}
+//		if(hs.isEmpty()) {
+//			System.out.println("it is empty");
+//		}else {
+//			System.out.println("something present");
+//		}
 	}
 
 }

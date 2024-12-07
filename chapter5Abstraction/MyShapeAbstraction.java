@@ -43,6 +43,8 @@ public class MyShapeAbstraction {
 		rect r = new rect(5, 4);
 		r.area();
 		r.print();
+		shape c1 = new cicle();
+		c1.area();
 	}
 
 }

@@ -40,6 +40,7 @@ public class InterfaceDemo2 {
 		e.print();
 		e.print2();
 		Prints.display();
+		
 	}
 
 }
